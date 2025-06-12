@@ -20,6 +20,19 @@ A responsive React dashboard that allows users to log in and view news articles 
 ## Available Scripts
 
 In the project directory, you can run:
+## Screenshots
+
+### Login Page
+![Login Screenshot](login.png)
+
+### Dashboard
+![Dashboard Screenshot](dashboard.png)
+
+### Analytics (Admin Only)
+![Analytics Screenshot](analytics.png)
+
+### Payout (Admin Only)
+![Payout Screenshot](payout.png)
 
 ### `npm start`
 
